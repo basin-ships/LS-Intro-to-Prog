@@ -1,0 +1,6 @@
+Ruby API
+http://ruby-doc.org/ -- this is the one LS has been recommending. I'm already getting used to navigating it, seems quite helpful so far. 
+
+I found https://www.ruby-lang.org/ which is the home page of the Ruby language (I think) and it has a Documentation page https://www.ruby-lang.org/en/documentation/ which is a level up, with "about Ruby" docs as well, along with tutorials, FAQ, etc. 
+
+

@@ -2,7 +2,6 @@
 
 
 def fibonacci(number)
-  puts "starting the method with number = #{number}"
   if number<2 
     number
   else
@@ -11,4 +10,5 @@ def fibonacci(number)
 end
 
 
-puts fibonacci(6)
+(1..20).each {|n| print "#{fibonacci(n)}, "}
+puts
